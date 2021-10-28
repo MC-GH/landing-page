@@ -229,11 +229,12 @@ ul{
 
 .signupbutton2{
     color: #F9FAF8;
-    text-align:justify;
-    text-align:center;
     font-weight: 700;
-    width:120px;
-    height:30px;
+    text-align: justify;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 30px;
+    padding-right: 30px;
     border: 1px solid #F9FAF8;
     border-radius: 10px;;
 }
